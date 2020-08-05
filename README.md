@@ -1,6 +1,6 @@
 # React JS Tutorial: Building Firebase Chat App (React Hooks)
 
-This source code is part of [React JS Tutorial: Building Firebase Chat App (React Hooks)]().
+This source code is part of [React JS Tutorial: Building Firebase Chat App (React Hooks)](https://www.djamware.com/post/5f2a1d9d9c794f177fd7b527/react-js-tutorial-building-firebase-chat-app-react-hooks).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
